@@ -28,6 +28,6 @@ KERNELDIR=<path_to_your_kernel> make
 
 # Doc
 
-* For documentacion about nrf24le1 lock nordic oficial web site:
+* For documentacion about nrf24le1 look nordic oficial web site:
 <http://www.nordicsemi.com/eng/Products/2.4GHz-RF/nRF24LE1>
 * Useful tools: <http://www.glomationinc.com/support.html>
